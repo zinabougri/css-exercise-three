@@ -9,6 +9,10 @@ body {
   width: 420px;
 }
 
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
 nav {
   margin: 0 auto;
   padding: 10px 0 15px 15px;
