@@ -39,7 +39,18 @@ div.arrow {
   padding-right: 18px;
 }
 
+div.location {
+  border-bottom: solid;
+  border-bottom-width: thin;
+  border-bottom-color: dimgrey;
+}
+
+div.location:hover {
+    background-color: darkgrey;
+}
+
 .restaurant-list {
   padding-top: 50px;
-  width: 100%; 
+  width: 100%;
+  background-color: lightgrey;
 }
