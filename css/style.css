@@ -15,11 +15,31 @@ body {
 
 nav {
   margin: 0 auto;
-  padding: 10px 0 15px 15px;
+  padding: 10px 0 20px 15px;
   position: fixed;
   width: 420px;
+  background-color: black;
+}
+
+h1 {
+  font-size: 16px;
+  font-weight: 600;
+  padding: 15px 15px 3px 15px;
+}
+
+h3 {
+  font-size: 12px;
+  padding-left: 15px;
+}
+
+div.arrow {
+  text-align: right;
+  position: relative;
+  top: -23px;
+  padding-right: 18px;
 }
 
 .restaurant-list {
   padding-top: 50px;
+  width: 100%; 
 }
