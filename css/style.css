@@ -32,11 +32,14 @@ h3 {
   padding-left: 15px;
 }
 
+div.content {
+  display: inline-block;
+  width: 100%;
+}
+
 div.arrow {
-  text-align: right;
-  position: relative;
-  top: -23px;
-  padding-right: 18px;
+  display: inline-block;
+  width: 100%;
 }
 
 div.location {
