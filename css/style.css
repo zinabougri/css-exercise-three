@@ -24,7 +24,7 @@ nav {
 h1 {
   font-size: 16px;
   font-weight: 600;
-  padding: 15px 15px 3px 15px;
+  padding: 20px 15px 4px 15px;
 }
 
 h3 {
@@ -34,12 +34,13 @@ h3 {
 
 div.content {
   display: inline-block;
-  width: 100%;
+  width: 90%;
+  padding-bottom: 23px;
 }
 
 div.arrow {
   display: inline-block;
-  width: 100%;
+  width: 5%;
 }
 
 div.location {
